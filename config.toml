@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "fi-FI"
-theme = "terminal"
+theme = "hello-friend-ng"
 paginate = 5
 
 [params]
