@@ -2,3 +2,7 @@ baseURL = 'https://hamburgerghini.com'
 languageCode = 'fi-fi'
 title = 'Hamburgerghini Landing Page'
 theme = 'hello-friend-ng'
+
+[module]
+[[module.imports]]
+    path = 'github.com/rhazdon/hugo-theme-hello-friend-ng'
